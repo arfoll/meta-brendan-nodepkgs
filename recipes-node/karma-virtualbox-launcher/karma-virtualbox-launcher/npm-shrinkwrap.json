@@ -1,0 +1,50 @@
+{
+  "name": "karma-virtualbox-launcher",
+  "version": "0.0.2",
+  "dependencies": {
+    "core-util-is": {
+      "version": "1.0.2",
+      "from": "core-util-is@>=1.0.0 <1.1.0",
+      "resolved": "https://registry.npmjs.org/core-util-is/-/core-util-is-1.0.2.tgz"
+    },
+    "inherits": {
+      "version": "2.0.1",
+      "from": "inherits@>=2.0.1 <2.1.0",
+      "resolved": "https://registry.npmjs.org/inherits/-/inherits-2.0.1.tgz"
+    },
+    "isarray": {
+      "version": "0.0.1",
+      "from": "isarray@0.0.1",
+      "resolved": "https://registry.npmjs.org/isarray/-/isarray-0.0.1.tgz"
+    },
+    "lodash": {
+      "version": "2.4.2",
+      "from": "lodash@>=2.4.1 <2.5.0",
+      "resolved": "https://registry.npmjs.org/lodash/-/lodash-2.4.2.tgz"
+    },
+    "log4js": {
+      "version": "0.6.32",
+      "from": "log4js@>=0.0.0 <1.0.0",
+      "resolved": "https://registry.npmjs.org/log4js/-/log4js-0.6.32.tgz"
+    },
+    "readable-stream": {
+      "version": "1.0.33",
+      "from": "readable-stream@>=1.0.2 <1.1.0",
+      "resolved": "https://registry.npmjs.org/readable-stream/-/readable-stream-1.0.33.tgz"
+    },
+    "semver": {
+      "version": "4.3.6",
+      "from": "semver@>=4.3.3 <4.4.0",
+      "resolved": "https://registry.npmjs.org/semver/-/semver-4.3.6.tgz"
+    },
+    "string_decoder": {
+      "version": "0.10.31",
+      "from": "string_decoder@>=0.10.0 <0.11.0",
+      "resolved": "https://registry.npmjs.org/string_decoder/-/string_decoder-0.10.31.tgz"
+    },
+    "virtualbox": {
+      "version": "0.1.1",
+      "from": "chiefy/node-virtualbox"
+    }
+  }
+}
